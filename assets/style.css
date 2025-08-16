@@ -270,7 +270,7 @@ width: 150px;
 }
 .brand-container {
 display: flex;
-justify-content: center;
+justify-content: space-evenly;
 flex-direction: row;
 gap: 20px;
 padding: 50px;
@@ -774,3 +774,4 @@ width: 100%;
 min-width: 200px;
 }
 }
+
