@@ -775,3 +775,24 @@ min-width: 200px;
 }
 }
 
+@media only screen and (max-width: 500px) {
+.hero-content p {
+    font-size: 13px;
+}
+  .hero-content h1 {
+    font-size: 30px;
+  }
+  .agent-container img {
+    width: 100%;
+}
+  .guide-image img {
+    width: 100%;
+}
+  .service-container .service-card img {
+    width: 100%;
+}
+  .search-container {
+    padding: 10px;
+}
+}
+
